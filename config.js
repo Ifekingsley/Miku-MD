@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['265889976968']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['265889976968']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['265889976968']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.Owner = ['265889976968','265981678617']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['265889976968','265981678617']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['265889976968','265981678617']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.BotName = "KINGSLEY BOT INC"
 global.packname = "Kingsley bot"
 global.author = "By: Kingsley"
@@ -20,7 +20,7 @@ global.sessionName = "session"  // -- Don't change otherwise bot will not work -
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except '@' //
+global.prefa = ['/'] // Prefix ---  change it to anythong you want except '@' //
 
 
 global.location = "South Africa, Malawi"
